@@ -1,3 +1,5 @@
+This project is an experimental project to provide API call to ML model and its based on Flask framework.
+----------------------------------------------------------------------------------------------------------
 Open Anaconda CMD prompt and run below.
 
 >> set FLASK_APP=app.py
